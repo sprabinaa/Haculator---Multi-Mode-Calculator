@@ -31,4 +31,4 @@ python hack.py
 ## 👨‍💻 Developer
 
 **Prabina Shrestha**  
-Computer Science Student | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sprabinaa)
+Computer Science Student | [LinkedIn](https://www.linkedin.com/in/prabina-shrestha/) | [GitHub](https://github.com/sprabinaa)
