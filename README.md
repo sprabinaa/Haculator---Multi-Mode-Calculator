@@ -27,3 +27,8 @@ git clone https://github.com/sprabinaa/Haculator-Multi-Mode-Calculator
 cd Haculator-Multi-Mode-Calculator
 pip install -r requirements.txt
 python hack.py
+
+## 👨‍💻 Developer
+
+**Prabina Shrestha**  
+Computer Science Student | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sprabinaa)
